@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
-email:
-description:
+#lang: en-US
+title: Deviroid's Blog
+email: deviroid@gmail.com
+description: Deviroid의 주요 관심사를 기록하는 곳
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://deviroid.github.io"
 author:
-  name:
+  name: Jongsung.Won
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: deviroid
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
